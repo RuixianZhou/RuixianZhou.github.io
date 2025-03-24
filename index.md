@@ -2,22 +2,22 @@
 layout: homepage
 ---
 
-## About Me
+## About Yann
 
-I am a Ph.D. student at ...
+Yann Zhou is a Master of Laws candidate at the [University of Southern California](https://gould.usc.edu/academics/degrees/llm/), where she has developed advanced expertise in legal research, writing, and analysis. Building on her multidisciplinary background in Japanese, advanced mathematics, and philosophy, Yann brings a global perspective and demonstrated adaptability to her work.
 
-## Research Interests
+Her experience includes an internship at a prominent law firm, where she focused on environmental litigation and corporate compliance for [Tianqi Lithium](https://en.tianqilithium.com/). This, coupled with her empirical research on climate crime in China, underscores her commitment to international affairs, sustainability, and innovative problem-solving.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+With a strong passion for leveraging legal technology to advance environmental protection, Yann is dedicated to supporting organizations seeking sustainable growth in an increasingly complex global landscape. By combining a solid foundation in legal principles with diverse insights and a proactive mindset, she distinguishes herself as a forward-thinking legal professional committed to driving meaningful change.
 
+## Speciality
+
+- **Energy and Environmental Law:** Energy and Environmental Law, International and Comparative Law, Legal Technology and Innovation
+  
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2025]** I am actively looking for a job/internship in summer 2025!
 
-{% include_relative _includes/publications.md %}
+# {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+# {% include_relative _includes/services.md %}
