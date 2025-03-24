@@ -18,6 +18,3 @@ With a strong passion for leveraging legal technology to advance environmental p
 
 - **[Mar. 2025]** I am actively looking for a job/internship in summer 2025!
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
